@@ -5,4 +5,4 @@ The Sooner Rover Team is a multi-disciplinary comptetition team from the Univers
 The competition is broken up into multiple missions. These are the Extreme Delivery, Equipment Servicing, Science, and Autonomous missions.
 Each of these missions has different capability requirements for the rover, so the Sooner Rover Team Designed multiple modules that can be switched out for each mission that attach to the base rover.
 
-![Base Rover](Full Rover with Arm in Utah.jpg)
+![Base Rover](https://github.com/Tristen-B/Sooner-Rover-Team-Science-Package-Capstone/raw/main/art/Full Rover with Arm in Utah.jpg)
